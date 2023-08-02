@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DPm6SJQJcQaqPV5zvjuA8AYBGyQj2VnZxSi5K6009Yh42YuHn4v33ifNMdc0xm75amrUbohk4wZlk1RXl0Dvkg==",
+  "dgSpecHash": "8X6XOo1ZgwWKA7i0Kyfew3zPWjyxOxbZGL7y0RderffmfCT0t8SACIUjhwgHB7I6V0C/5SuSnZVdSUPeiQV0kw==",
   "success": true,
-  "projectFilePath": "E:\\Documents\\Alejandro\\Programas\\Visual C#\\Tutoriales\\Code Tutorials\\EF_CreateDB\\EF_CreateDB\\BookLibrary.csproj",
+  "projectFilePath": "E:\\Documents\\Alejandro\\Programas\\Visual C#\\Tutorials\\Code Tutorials\\EF_CreateDB\\EF_CreateDB\\BookLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jarb2104\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.9\\microsoft.data.sqlite.core.7.0.9.nupkg.sha512",
     "C:\\Users\\Jarb2104\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.9\\microsoft.entityframeworkcore.7.0.9.nupkg.sha512",

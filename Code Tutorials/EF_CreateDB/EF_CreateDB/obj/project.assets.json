@@ -1194,11 +1194,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Documents\\Alejandro\\Programas\\Visual C#\\Tutoriales\\Code Tutorials\\EF_CreateDB\\EF_CreateDB\\BookLibrary.csproj",
+      "projectUniqueName": "E:\\Documents\\Alejandro\\Programas\\Visual C#\\Tutorials\\Code Tutorials\\EF_CreateDB\\EF_CreateDB\\BookLibrary.csproj",
       "projectName": "BookLibrary",
-      "projectPath": "E:\\Documents\\Alejandro\\Programas\\Visual C#\\Tutoriales\\Code Tutorials\\EF_CreateDB\\EF_CreateDB\\BookLibrary.csproj",
+      "projectPath": "E:\\Documents\\Alejandro\\Programas\\Visual C#\\Tutorials\\Code Tutorials\\EF_CreateDB\\EF_CreateDB\\BookLibrary.csproj",
       "packagesPath": "C:\\Users\\Jarb2104\\.nuget\\packages\\",
-      "outputPath": "E:\\Documents\\Alejandro\\Programas\\Visual C#\\Tutoriales\\Code Tutorials\\EF_CreateDB\\EF_CreateDB\\obj\\",
+      "outputPath": "E:\\Documents\\Alejandro\\Programas\\Visual C#\\Tutorials\\Code Tutorials\\EF_CreateDB\\EF_CreateDB\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jarb2104\\AppData\\Roaming\\NuGet\\NuGet.Config",

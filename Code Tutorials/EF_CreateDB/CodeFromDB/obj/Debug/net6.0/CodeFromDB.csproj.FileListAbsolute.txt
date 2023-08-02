@@ -1,0 +1,14 @@
+E:\Documents\Alejandro\Programas\Visual C#\Tutorials\Code Tutorials\EF_CreateDB\CodeFromDB\bin\Debug\net6.0\CodeFromDB.deps.json
+E:\Documents\Alejandro\Programas\Visual C#\Tutorials\Code Tutorials\EF_CreateDB\CodeFromDB\bin\Debug\net6.0\CodeFromDB.runtimeconfig.json
+E:\Documents\Alejandro\Programas\Visual C#\Tutorials\Code Tutorials\EF_CreateDB\CodeFromDB\bin\Debug\net6.0\CodeFromDB.dll
+E:\Documents\Alejandro\Programas\Visual C#\Tutorials\Code Tutorials\EF_CreateDB\CodeFromDB\bin\Debug\net6.0\CodeFromDB.pdb
+E:\Documents\Alejandro\Programas\Visual C#\Tutorials\Code Tutorials\EF_CreateDB\CodeFromDB\obj\Debug\net6.0\CodeFromDB.csproj.AssemblyReference.cache
+E:\Documents\Alejandro\Programas\Visual C#\Tutorials\Code Tutorials\EF_CreateDB\CodeFromDB\obj\Debug\net6.0\CodeFromDB.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\Alejandro\Programas\Visual C#\Tutorials\Code Tutorials\EF_CreateDB\CodeFromDB\obj\Debug\net6.0\CodeFromDB.AssemblyInfoInputs.cache
+E:\Documents\Alejandro\Programas\Visual C#\Tutorials\Code Tutorials\EF_CreateDB\CodeFromDB\obj\Debug\net6.0\CodeFromDB.AssemblyInfo.cs
+E:\Documents\Alejandro\Programas\Visual C#\Tutorials\Code Tutorials\EF_CreateDB\CodeFromDB\obj\Debug\net6.0\CodeFromDB.csproj.CoreCompileInputs.cache
+E:\Documents\Alejandro\Programas\Visual C#\Tutorials\Code Tutorials\EF_CreateDB\CodeFromDB\obj\Debug\net6.0\CodeFromDB.dll
+E:\Documents\Alejandro\Programas\Visual C#\Tutorials\Code Tutorials\EF_CreateDB\CodeFromDB\obj\Debug\net6.0\refint\CodeFromDB.dll
+E:\Documents\Alejandro\Programas\Visual C#\Tutorials\Code Tutorials\EF_CreateDB\CodeFromDB\obj\Debug\net6.0\CodeFromDB.pdb
+E:\Documents\Alejandro\Programas\Visual C#\Tutorials\Code Tutorials\EF_CreateDB\CodeFromDB\obj\Debug\net6.0\CodeFromDB.genruntimeconfig.cache
+E:\Documents\Alejandro\Programas\Visual C#\Tutorials\Code Tutorials\EF_CreateDB\CodeFromDB\obj\Debug\net6.0\ref\CodeFromDB.dll
