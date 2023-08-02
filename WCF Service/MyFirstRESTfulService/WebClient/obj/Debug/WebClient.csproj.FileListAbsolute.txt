@@ -1,0 +1,10 @@
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\WCF Service\MyFirstRESTfulService\WebClient\bin\WebClient.dll.config
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\WCF Service\MyFirstRESTfulService\WebClient\bin\WebClient.dll
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\WCF Service\MyFirstRESTfulService\WebClient\bin\WebClient.pdb
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\WCF Service\MyFirstRESTfulService\WebClient\bin\MyFirstRESTfulService.dll
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\WCF Service\MyFirstRESTfulService\WebClient\bin\MyFirstRESTfulService.pdb
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\WCF Service\MyFirstRESTfulService\WebClient\obj\Debug\WebClient.csprojResolveAssemblyReference.cache
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\WCF Service\MyFirstRESTfulService\WebClient\obj\Debug\WebClient.csproj.CoreCompileInputs.cache
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\WCF Service\MyFirstRESTfulService\WebClient\obj\Debug\WebClient.csproj.CopyComplete
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\WCF Service\MyFirstRESTfulService\WebClient\obj\Debug\WebClient.dll
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\WCF Service\MyFirstRESTfulService\WebClient\obj\Debug\WebClient.pdb

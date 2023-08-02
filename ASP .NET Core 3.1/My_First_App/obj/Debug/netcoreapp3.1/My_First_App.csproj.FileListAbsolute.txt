@@ -1,0 +1,12 @@
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\ASP .NET Core 3.1\My_First_App\bin\Debug\netcoreapp3.1\My_First_App.exe
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\ASP .NET Core 3.1\My_First_App\bin\Debug\netcoreapp3.1\My_First_App.deps.json
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\ASP .NET Core 3.1\My_First_App\bin\Debug\netcoreapp3.1\My_First_App.runtimeconfig.json
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\ASP .NET Core 3.1\My_First_App\bin\Debug\netcoreapp3.1\My_First_App.runtimeconfig.dev.json
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\ASP .NET Core 3.1\My_First_App\bin\Debug\netcoreapp3.1\My_First_App.dll
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\ASP .NET Core 3.1\My_First_App\bin\Debug\netcoreapp3.1\My_First_App.pdb
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\ASP .NET Core 3.1\My_First_App\obj\Debug\netcoreapp3.1\My_First_App.csprojAssemblyReference.cache
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\ASP .NET Core 3.1\My_First_App\obj\Debug\netcoreapp3.1\My_First_App.AssemblyInfoInputs.cache
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\ASP .NET Core 3.1\My_First_App\obj\Debug\netcoreapp3.1\My_First_App.AssemblyInfo.cs
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\ASP .NET Core 3.1\My_First_App\obj\Debug\netcoreapp3.1\My_First_App.dll
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\ASP .NET Core 3.1\My_First_App\obj\Debug\netcoreapp3.1\My_First_App.pdb
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\ASP .NET Core 3.1\My_First_App\obj\Debug\netcoreapp3.1\My_First_App.genruntimeconfig.cache

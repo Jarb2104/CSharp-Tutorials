@@ -1,0 +1,10 @@
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\WCF Service\ConsumeTWCFSerciveIIS\ConsumeTWCFSerciveIIS\bin\Debug\ConsumeTWCFSerciveIIS.exe.config
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\WCF Service\ConsumeTWCFSerciveIIS\ConsumeTWCFSerciveIIS\bin\Debug\ConsumeTWCFSerciveIIS.exe
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\WCF Service\ConsumeTWCFSerciveIIS\ConsumeTWCFSerciveIIS\bin\Debug\ConsumeTWCFSerciveIIS.pdb
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\WCF Service\ConsumeTWCFSerciveIIS\ConsumeTWCFSerciveIIS\obj\Debug\ConsumeTWCFSerciveIIS.csprojResolveAssemblyReference.cache
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\WCF Service\ConsumeTWCFSerciveIIS\ConsumeTWCFSerciveIIS\obj\Debug\ConsumeTWCFSerciveIIS.frmWCFServiceTest.resources
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\WCF Service\ConsumeTWCFSerciveIIS\ConsumeTWCFSerciveIIS\obj\Debug\ConsumeTWCFSerciveIIS.Properties.Resources.resources
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\WCF Service\ConsumeTWCFSerciveIIS\ConsumeTWCFSerciveIIS\obj\Debug\ConsumeTWCFSerciveIIS.csproj.GenerateResource.cache
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\WCF Service\ConsumeTWCFSerciveIIS\ConsumeTWCFSerciveIIS\obj\Debug\ConsumeTWCFSerciveIIS.csproj.CoreCompileInputs.cache
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\WCF Service\ConsumeTWCFSerciveIIS\ConsumeTWCFSerciveIIS\obj\Debug\ConsumeTWCFSerciveIIS.exe
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\WCF Service\ConsumeTWCFSerciveIIS\ConsumeTWCFSerciveIIS\obj\Debug\ConsumeTWCFSerciveIIS.pdb

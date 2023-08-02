@@ -1,0 +1,6 @@
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\WCF Service\MyFirstRESTfulService\MyFirstRESTfulService\bin\Debug\MyFirstRESTfulService.dll
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\WCF Service\MyFirstRESTfulService\MyFirstRESTfulService\bin\Debug\MyFirstRESTfulService.pdb
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\WCF Service\MyFirstRESTfulService\MyFirstRESTfulService\obj\Debug\MyFirstRESTfulService.csprojResolveAssemblyReference.cache
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\WCF Service\MyFirstRESTfulService\MyFirstRESTfulService\obj\Debug\MyFirstRESTfulService.csproj.CoreCompileInputs.cache
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\WCF Service\MyFirstRESTfulService\MyFirstRESTfulService\obj\Debug\MyFirstRESTfulService.dll
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\WCF Service\MyFirstRESTfulService\MyFirstRESTfulService\obj\Debug\MyFirstRESTfulService.pdb

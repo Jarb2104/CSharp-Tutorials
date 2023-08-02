@@ -1,0 +1,7 @@
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\WCF Service\TWCFService\TWCFService\bin\Debug\TWCFService.dll.config
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\WCF Service\TWCFService\TWCFService\bin\Debug\TWCFService.dll
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\WCF Service\TWCFService\TWCFService\bin\Debug\TWCFService.pdb
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\WCF Service\TWCFService\TWCFService\obj\Debug\TWCFService.csprojResolveAssemblyReference.cache
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\WCF Service\TWCFService\TWCFService\obj\Debug\TWCFService.csproj.CoreCompileInputs.cache
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\WCF Service\TWCFService\TWCFService\obj\Debug\TWCFService.dll
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\WCF Service\TWCFService\TWCFService\obj\Debug\TWCFService.pdb

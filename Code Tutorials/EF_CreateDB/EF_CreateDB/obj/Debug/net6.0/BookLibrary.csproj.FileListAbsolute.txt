@@ -1,0 +1,12 @@
+E:\Documents\Alejandro\Programas\Visual C#\Tutoriales\Code Tutorials\EF_CreateDB\EF_CreateDB\bin\Debug\net6.0\BookLibrary.deps.json
+E:\Documents\Alejandro\Programas\Visual C#\Tutoriales\Code Tutorials\EF_CreateDB\EF_CreateDB\bin\Debug\net6.0\BookLibrary.dll
+E:\Documents\Alejandro\Programas\Visual C#\Tutoriales\Code Tutorials\EF_CreateDB\EF_CreateDB\bin\Debug\net6.0\BookLibrary.pdb
+E:\Documents\Alejandro\Programas\Visual C#\Tutoriales\Code Tutorials\EF_CreateDB\EF_CreateDB\obj\Debug\net6.0\BookLibrary.csproj.AssemblyReference.cache
+E:\Documents\Alejandro\Programas\Visual C#\Tutoriales\Code Tutorials\EF_CreateDB\EF_CreateDB\obj\Debug\net6.0\BookLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\Alejandro\Programas\Visual C#\Tutoriales\Code Tutorials\EF_CreateDB\EF_CreateDB\obj\Debug\net6.0\BookLibrary.AssemblyInfoInputs.cache
+E:\Documents\Alejandro\Programas\Visual C#\Tutoriales\Code Tutorials\EF_CreateDB\EF_CreateDB\obj\Debug\net6.0\BookLibrary.AssemblyInfo.cs
+E:\Documents\Alejandro\Programas\Visual C#\Tutoriales\Code Tutorials\EF_CreateDB\EF_CreateDB\obj\Debug\net6.0\BookLibrary.csproj.CoreCompileInputs.cache
+E:\Documents\Alejandro\Programas\Visual C#\Tutoriales\Code Tutorials\EF_CreateDB\EF_CreateDB\obj\Debug\net6.0\BookLibrary.dll
+E:\Documents\Alejandro\Programas\Visual C#\Tutoriales\Code Tutorials\EF_CreateDB\EF_CreateDB\obj\Debug\net6.0\refint\BookLibrary.dll
+E:\Documents\Alejandro\Programas\Visual C#\Tutoriales\Code Tutorials\EF_CreateDB\EF_CreateDB\obj\Debug\net6.0\BookLibrary.pdb
+E:\Documents\Alejandro\Programas\Visual C#\Tutoriales\Code Tutorials\EF_CreateDB\EF_CreateDB\obj\Debug\net6.0\ref\BookLibrary.dll

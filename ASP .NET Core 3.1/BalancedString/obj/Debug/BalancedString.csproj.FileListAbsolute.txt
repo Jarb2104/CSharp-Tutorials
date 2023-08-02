@@ -1,0 +1,7 @@
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\ASP .NET Core 3.1\BalancedString\bin\Debug\BalancedString.exe.config
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\ASP .NET Core 3.1\BalancedString\bin\Debug\BalancedString.exe
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\ASP .NET Core 3.1\BalancedString\bin\Debug\BalancedString.pdb
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\ASP .NET Core 3.1\BalancedString\obj\Debug\BalancedString.csprojAssemblyReference.cache
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\ASP .NET Core 3.1\BalancedString\obj\Debug\BalancedString.csproj.CoreCompileInputs.cache
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\ASP .NET Core 3.1\BalancedString\obj\Debug\BalancedString.exe
+D:\Documents\Alejandro\Programas\Visual C#\Tutoriales\ASP .NET Core 3.1\BalancedString\obj\Debug\BalancedString.pdb
